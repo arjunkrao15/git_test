@@ -1,4 +1,3 @@
-cd# git_test
-this my demo
+<p>This is my first time exploring git <p>
 <br>
-i am not liking this
+things are not familier yet
